@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercerify",
+        "uuid": 9645246,
+        "checksum": "87o2mo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
